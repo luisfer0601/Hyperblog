@@ -1,4 +1,4 @@
-# Hyperblog :fa-star: :fa-star::fa-star: :fa-star::fa-star:
+# Hyperblog 💥
 Un blog increible para la clase de Git y Github de [PLATZI](http://https://platzi.com/ "PLATZI")
 
 > Hola! Estoy muy contento con todo lo que he aprendido en este curso de Platzi. Este curso dictado por el CEO Fredy es muy facil de seguir el ritmo y poner en practica todo lo que ense&ntilde;a, pues tiene una metodologia excelente para ense&ntilde;ar; Le agradezco por esa gran labor de ense&ntilde;ar. Ahora si! continuemos aprendiendo. 
